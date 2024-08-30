@@ -1,6 +1,6 @@
 {
   "name": "myclub-widget-plugin",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "Enable myclub App Widget",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
